@@ -1,4 +1,4 @@
-package com.oracle.cda.semantic.data.threadsafecounter;
+package concurrency.java.threadsafecounter;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

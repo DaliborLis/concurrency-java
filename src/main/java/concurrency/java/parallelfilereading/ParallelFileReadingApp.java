@@ -1,4 +1,4 @@
-package com.oracle.cda.semantic.data.parallelfilereading;
+package concurrency.java.parallelfilereading;
 
 import java.nio.file.Path;
 import java.util.List;

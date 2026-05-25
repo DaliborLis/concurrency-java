@@ -1,4 +1,4 @@
-package com.oracle.cda.semantic.data.producerconsumer;
+package concurrency.java.producerconsumer;
 
 import java.util.Random;
 import java.util.concurrent.BlockingQueue;

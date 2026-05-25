@@ -1,4 +1,4 @@
-package com.oracle.cda.semantic.data.threadsafecounter;
+package concurrency.java.threadsafecounter;
 
 public class CounterSynchronized implements Counter {
     private volatile int count = 0;

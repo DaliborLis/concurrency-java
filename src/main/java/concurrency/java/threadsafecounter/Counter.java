@@ -1,4 +1,4 @@
-package com.oracle.cda.semantic.data.threadsafecounter;
+package concurrency.java.threadsafecounter;
 
 public interface Counter {
 

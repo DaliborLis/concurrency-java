@@ -1,9 +1,9 @@
-package com.oracle.cda.semantic.data.producerconsumer;
+package concurrency.java.producerconsumer;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.CountDownLatch;
 
-import static com.oracle.cda.semantic.data.producerconsumer.ProducerConsumerApp.POISON_PILL;
+import static concurrency.java.producerconsumer.ProducerConsumerApp.POISON_PILL;
 
 public class Consumer implements Runnable {
 
