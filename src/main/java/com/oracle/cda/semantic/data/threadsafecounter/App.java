@@ -5,6 +5,9 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.IntStream;
 
+/**
+ * Thread-safe Counter
+ */
 public class App {
 
     static void main() {

@@ -10,6 +10,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
+/**
+ * Producer–Consumer Queue
+ */
 public class ProducerConsumerApp {
 
     public static final String POISON_PILL = "__STOP__";
