@@ -1,4 +1,4 @@
-package concurrency.java.printnumbersinorder;
+package concurrency.java.printsequence;
 
 
 import java.util.stream.IntStream;
